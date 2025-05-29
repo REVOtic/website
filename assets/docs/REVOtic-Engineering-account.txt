@@ -1,0 +1,11 @@
+Account Name:     M/S Revotic Engineering Pvt Ltd
+Account Number:   000000 6232 7918 735
+Bank Name:        STATE BANK OF INDIA
+Bank Address:     PLOT NO 8 FIRST FLOOR KRISHNA TOWERS SECTOR 12 DWARKA
+Bank Branch:      DWARAKA NEW DELHI
+Bank Code:        020970
+Bank IFSC Code:   SBIN0020970
+Bank MICR code:   110004016
+Bank SWIFT code:  SBIINBB104
+
+Company Address:  Plot no. 66/1, 2nd floor, Near Excel Maruti Service Center, Bagdola, Sector - 8, Dwarka, New Delhi, India. Pin - 110077
